@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.app {
+  color: #darkgrey;
+  max-width: 600px;
+  font-family: "News Cycle", Helvetica, sans-serif;
+  text-align: center;
+}
+
+.app a {
+  color: #42b983;
+  text-decoration: none;
+}
+
+.logo {
+  width: 100px;
+  height: 100px
+}
+
+.material-icons, .fa {
+  vertical-align: middle;
+}

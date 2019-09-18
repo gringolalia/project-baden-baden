@@ -1,0 +1,31 @@
+.
+├── Emerson
+│   ├── components
+│   └── index.js
+├── Emily
+│   ├── components
+│   └── index.js
+├── Ginsberg
+│   ├── components
+│   └── index.js
+├── Home
+│   ├── components
+│   └── index.js
+├── Lorca
+│   ├── components
+│   └── index.js
+├── Neruda
+│   ├── components
+│   └── index.js
+├── NotFound
+│   ├── components
+│   └── index.js
+├── text.txt
+├── Thoreau
+│   ├── components
+│   └── index.js
+└── Whitman
+    ├── components
+    └── index.js
+
+18 directories, 10 files
