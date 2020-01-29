@@ -1,0 +1,25 @@
+html {
+  font-family: "News Cycle", sans-serif;
+  height: 100%; }
+
+body {
+  font-family: "News Cycle", sans-serif; }
+
+.app {
+  color: #darkgrey;
+  max-width: 600px;
+  font-family: "News Cycle", Helvetica, sans-serif;
+  text-align: center; }
+
+.app a {
+  color: #42b983;
+  text-decoration: none; }
+
+.logo {
+  width: 100px;
+  height: 100px; }
+
+.material-icons, .fa {
+  vertical-align: middle; }
+
+/*# sourceMappingURL=main.css.map */
